@@ -1,0 +1,203 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
+
+li.one {
+    margin: 30px;
+}
+
+
+.header-links {
+    display: flex;
+    justify-content: space-around;
+    font-size: 14px;
+    margin: 3px;
+}
+
+.logo {
+    padding: 20px;
+}
+
+.flex-middle-contents {
+    display: flex;
+    margin: auto;
+}
+
+.whatsapp-header {
+    display: flex;
+    background-color: #45BEA5;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    justify-content: space-around;
+    height: 90px;
+        z-index: 999;
+}
+
+.side1 {
+    padding-top: 165px;
+    padding-left: 20px;
+    width: 460px;
+}
+
+.side2 {
+    padding-top: 66px;
+}
+
+.logoImg1 {
+    width: 364px;
+    height: 712px;
+}
+
+.head-font {
+    width: 300px;
+    font-weight: 300;
+    font-size: 33px;
+    color: #434343;
+}
+
+.p-body {
+    width: 390px;
+    opacity: 0.7;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.span {
+    opacity: 0.3;
+    font-size: 12px;
+}
+
+.flex-middle {
+    display: flex;
+    margin-top: 66px;
+}
+
+.footer-flex {
+    background-color: #293444;
+}
+
+.footer-flex2 {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding-top: 53px;
+    padding-bottom: 40px;
+}
+
+h4 {
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+
+.footer-secondary {
+    background-color: #232f3c;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin: 70px;
+}
+
+.icons {
+    vertical-align: middle;
+}
+
+.foot-sec-inner {
+    padding-top: 30px;
+    padding-bottom: 25px;
+    width: 100%;
+}
+
+.appForAll {
+    padding: 0;
+}
+
+.two {
+    padding: 10px;
+}
+
+.button {
+    display: flex;
+    margin: 80px;
+}
+
+.large {
+    background-color: white;
+    border: 2px solid #77D7C8;
+    border-radius: 60px;
+    color: #1cb39b;
+    font-size: 16px;
+    padding: 18px 32px;
+    font-weight: 500;
+}
+
+
+.flex-inner2 {
+    background-color: #0d0d0d;
+    display: flex;
+}
+
+.flex-inner3 {
+    color: rgba(255, 255, 255, 0.6);
+    padding: 4px;
+    padding-left: 126px;
+    width: 24.9%;
+}
+
+.flex-inner4 {
+    padding: 20px;
+}
+
+.flex-middle1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.flex-bussiness{
+ background-color: #D0E9EA;
+ margin-right: 15px;
+ padding-top: 20px;
+ width: 50%;
+}
+
+.flex-middle2{
+ background-color: #EDF8F5;
+ padding-top: 20px;
+ width: 50%;
+}
+
+.mid-p{
+    font-size: 14px;
+    width: 500px;
+    padding-left: 80px;
+}
+
+.mid-p1{
+    font-size: 12px;
+    font-weight: 500;
+    }
+
+.image2{
+  width: 300px;
+}
+
+.spec{
+    font-size: 24px;
+font-weight: 300;
+}
